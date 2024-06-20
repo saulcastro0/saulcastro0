@@ -1,5 +1,5 @@
 👋 ¡Hola, soy Saúl!
-Acerca de mí
+
 🎓 Graduado en Administración de Sistemas.
 💻 Apasionado por la ciberseguridad.
 📅 Tengo 21 años.
